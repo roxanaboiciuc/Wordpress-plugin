@@ -1,0 +1,10 @@
+/*
+=== Plugin Name: BitTest
+frontend CSS - main CSS for the plugin.
+*/
+
+body {
+	background-color: yellow!important;
+	color: blue!important;
+	font-weight: bold!important;
+}

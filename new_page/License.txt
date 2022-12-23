@@ -1,0 +1,3 @@
+Note: This plugin is licensed under GNU/GPLv3, see http://www.gnu.org/licenses/gpl-3.0.html.
+ 
+
